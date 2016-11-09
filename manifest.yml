@@ -1,7 +1,7 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  host: aprils-id-web
-  name: Aprils-id-web
+  host: Aprils-Web-Tests
+  name: Aprils-Web-Tests
   memory: 64M
   stack: cflinuxfs2
